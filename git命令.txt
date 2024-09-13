@@ -13,3 +13,4 @@ git pull origin dev
 git branch -a
 git branch -d 分支名
 git push origin --delete 分支名
+2
